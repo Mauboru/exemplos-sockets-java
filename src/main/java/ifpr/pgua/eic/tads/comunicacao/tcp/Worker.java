@@ -1,7 +1,6 @@
 package ifpr.pgua.eic.tads.comunicacao.tcp;
 
 import java.io.*;
-import java.net.ServerSocket;
 import java.net.Socket;
 
 public class Worker implements Runnable{
